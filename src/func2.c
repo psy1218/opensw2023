@@ -2,4 +2,5 @@
 
 void goo(){
     printf("goo\n");
+    ptintf("goo is good\n")
 }
